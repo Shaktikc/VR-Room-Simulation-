@@ -1,0 +1,150 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.userprefs
+*.swp
+*.swo
+
+# Version control
+*.meta
+*.lock
+
+# Package manager files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Other
+*.bak
+*.tmp
+*.log
+*.pid
+*.gz
+*.zip
+*.rar
+*.7z
+*.tar
+*.tgz
+*.tar.gz
+*.iso
+*.dmg
+*.exe
+*.dll
+*.pdb
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+*.pyo
+*.pyd
+*.out
+*.obj
+*.o
+*.a
+*.lib
+*.lo
+*.la
+*.lai
+*.suo
+*.user
+*.sln.docstates
+*.sln.cache
+*.sln.ide
+*.sln.ide.*
+*.sln.ide.*.bak
+*.sln.ide.*.bak.*
+*.sln.ide.*.bak.*.bak
+```# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.userprefs
+*.swp
+*.swo
+
+# Version control
+*.meta
+*.lock
+
+# Package manager files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Other
+*.bak
+*.tmp
+*.log
+*.pid
+*.gz
+*.zip
+*.rar
+*.7z
+*.tar
+*.tgz
+*.tar.gz
+*.iso
+*.dmg
+*.exe
+*.dll
+*.pdb
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+*.pyo
+*.pyd
+*.out
+*.obj
+*.o
+*.a
+*.lib
+*.lo
+*.la
+*.lai
+*.suo
+*.user
+*.sln.docstates
+*.sln.cache
+*.sln.ide
+*.sln.ide.*
+*.sln.ide.*.bak
+*.sln.ide.*.bak.*
+*.sln.ide.*.bak.*.bak

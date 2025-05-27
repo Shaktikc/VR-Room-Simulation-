@@ -2,7 +2,6 @@
 
 ## 📌 Overview
 
-
 Experience the feeling of living in your own virtual room with interactive elements!
 
 This is my first VR project, which I completed by following a tutorial available on the official Unity website to understand how VR technology works.

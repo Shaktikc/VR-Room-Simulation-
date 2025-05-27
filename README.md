@@ -34,12 +34,4 @@ Overall, it creates an immersive experience that closely resembles living in a r
 
 ---
 
-## 🎮 Features
 
-- 🔐 Door unlocking with a correct code  
-- 🧩 Puzzle-based escape room gameplay  
-- 🖐️ Object interaction using VR controllers  
-- 🏃 Navigation in an immersive 3D environment  
-- ⚙️ Real-time physics for realistic object behavior  
-
----
